@@ -3,7 +3,7 @@
 ## ¿Cuando salió?
 El primer banner publicitario salió en la revista web Hotwired en 1994, la revista fue pagada por la actual empresa multinacional AT & T para que saliera el banner publicitario.
 
-## ¿Que fue?
+## ¿Qué fue?
 El banner publicitario fue una imagen rectangular larga, este banner fue tan innovador porque tenía un vínculo a otra página web a la que solo accedían los que entraban en él.
 
 ## Banner publicitario:
