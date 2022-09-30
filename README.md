@@ -9,6 +9,6 @@ El banner publicitario fue una imagen rectangular larga, este banner fue tan inn
 ## Banner publicitario:
 ![Banner](https://github.com/MarcosYelamos/SMX2-M8UF1A1-HistoriaWeb-1994-ElprimerAnuncioPublicitario-MarcosYelamos/blob/main/banner.png)
 
-## Pagina a la que te llevaba:
+## Página a la que te llevaba:
 ![Pagina a la que te llevaba el vinculo](https://github.com/MarcosYelamos/SMX2-M8UF1A1-HistoriaWeb-1994-ElprimerAnuncioPublicitario-MarcosYelamos/blob/main/pagina%20a%20la%20que%20te%20llevaba.png)
 
