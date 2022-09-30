@@ -1,4 +1,4 @@
-# El primer anuncio publicitario (en banner)
+# El primer banner publicitario
 
 ## Cuanndo salio?
 El primer banner publicitario salió en la revista web Hotwired en 1994, la revista fue pagada por la actual empresa multinacional AT & T para que saliera el banner publicitario.
