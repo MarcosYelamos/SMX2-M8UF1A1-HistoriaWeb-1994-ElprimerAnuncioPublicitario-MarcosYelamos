@@ -7,4 +7,7 @@ El primer banner publicitario salio en la revista web Hotwired en 1994, la revis
 EL banner publicitario fue una imagen rectangular larga, este banner fue tan innovador porque tenia un vinculo a otra pagina web a la que solo accedian los que entraban en él.
 
 ## Banner publicitario:
-![Banner](
+![Banner](https://github.com/MarcosYelamos/SMX2-M8UF1A1-HistoriaWeb-1994-ElprimerAnuncioPublicitario-MarcosYelamos/blob/main/banner.png)
+
+## Pagina a la que te llevaba:
+![Pagina a la que te llevaba el vinculo](
